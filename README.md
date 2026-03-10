@@ -32,9 +32,9 @@ According to the paper, UHD-Processor achieves state-of-the-art performance with
 Download links by degradation category (as referenced in the paper):
 
 - [UHD_deblur (deblurring)](https://drive.google.com/file/d/1-RCHHPMh95Pnm0Wj773QvKpNm9WoZV9l/view?usp=sharing)
-- [UHD_haze (dehazing)](https://drive.google.com/file/d/10dFZZMep3k2p3r8houGkKevTw3XaVrtq/view?usp=sharing)
+- [UHD_rain (dehazing)](https://drive.google.com/file/d/10dFZZMep3k2p3r8houGkKevTw3XaVrtq/view?usp=sharing)
 - [UHD_LL (low-light)](https://drive.google.com/file/d/1O31UC6MJ3pHOIPLzXlqHqvcIwgfy18_f/view?usp=sharing)
-- [UHD_rain (deraining)](https://drive.google.com/file/d/1jkBnyVKND-f5WZ4mn8c7tnKPekB2qsxJ/view?usp=sharing)
+- [UHD_haze (deraining)](https://drive.google.com/file/d/1jkBnyVKND-f5WZ4mn8c7tnKPekB2qsxJ/view?usp=sharing)
 - [UHD_snow (desnowing)](https://drive.google.com/file/d/1rsn-S5EDKo5yw-wlxCjrudx7ih056Ro8/view?usp=sharing)
 - [UHD_noise (desnoising)](https://drive.google.com/file/d/1Ar8QYk2SNJi30RGCN5h-P_4cEytZ4fjD/view?usp=sharing)
 
